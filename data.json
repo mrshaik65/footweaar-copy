@@ -1,0 +1,36 @@
+{
+  "footwear": [
+    {
+      "id": 1,
+      "title": "Oxford Shoes",
+      "gender": "Men",
+      "price": 2990,
+      "brand": "Clarks",
+      "rating": 4.5,
+      "material": "Genuine Leather",
+      "description": "Classic Oxford shoes for formal office wear.",
+      "image": "https://example.com/images/oxford.jpg",
+      "sizes": [
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Sneakers",
+      "gender": "Women",
+      "price": 2499,
+      "brand": "Nike",
+      "rating": 4.7,
+      "material": "Mesh",
+      "description": "Lightweight running sneakers for daily use.",
+      "image": "https://example.com/images/sneakers.jpg",
+      "sizes": [
+        6,
+        7,
+        8
+      ]
+    }
+  ]
+}
