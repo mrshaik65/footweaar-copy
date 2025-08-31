@@ -21,7 +21,7 @@
       "rating": 4.3,
       "material": "Faux Leather",
       "description": "Stylish Derby shoes perfect for business meetings. Featuring a comfortable fit with high-quality faux leather and a sturdy sole for long-lasting wear. These shoes balance elegance and everyday practicality.",
-      "image": "https://example.com/images/derby.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%202.png",
       "sizes": [7, 8]
     },
     {
@@ -33,7 +33,7 @@
       "rating": 4.2,
       "material": "Leather",
       "description": "Elegant Brogues with decorative perforations. Made from soft leather, these shoes add a touch of sophistication to any outfit. Ideal for semi-formal occasions or casual office wear.",
-      "image": "https://example.com/images/brogues.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%203.png",
       "sizes": [8, 9, 10]
     },
     {
@@ -45,7 +45,7 @@
       "rating": 4.4,
       "material": "Suede",
       "description": "Comfortable slip-on loafers made from premium suede. Perfect for casual outings or relaxed office days. Designed to provide all-day comfort with a flexible sole and breathable lining.",
-      "image": "https://example.com/images/loafers.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%204.png",
       "sizes": [7, 9, 10, 11]
     },
     {
@@ -57,7 +57,7 @@
       "rating": 4.3,
       "material": "Patent Leather",
       "description": "Sleek monk straps with buckle closure, crafted from shiny patent leather. These shoes are a statement piece for formal events and stylish office wear, combining classic design with modern appeal.",
-      "image": "https://example.com/images/monkstraps.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%205.png",
       "sizes": [7, 8, 9, 10, 11]
     },
     {
@@ -69,7 +69,7 @@
       "rating": 4.4,
       "material": "Leather",
       "description": "Premium dress boots for men made with durable leather. These boots provide great ankle support and a polished look, perfect for colder seasons and formal occasions.",
-      "image": "https://example.com/images/dressboots.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%206.png",
       "sizes": [8, 9]
     },
     {
@@ -81,7 +81,7 @@
       "rating": 4.6,
       "material": "Mesh",
       "description": "Lightweight unisex sneakers for daily wear. Designed with breathable mesh for ventilation and cushioned soles for superior comfort during sports or casual outings.",
-      "image": "https://example.com/images/sneakers.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%207.png",
       "sizes": [7, 8, 9, 10]
     },
     {
@@ -93,7 +93,7 @@
       "rating": 4.2,
       "material": "Canvas",
       "description": "Casual slip-on shoes for easy wear. Crafted with lightweight canvas material, these shoes are perfect for quick errands, casual hangouts, or summer days.",
-      "image": "https://example.com/images/slipons.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%208.png",
       "sizes": [9, 10]
     },
     {
@@ -105,7 +105,7 @@
       "rating": 4.5,
       "material": "Canvas",
       "description": "Classic unisex canvas shoes with a timeless design. Ideal for everyday wear, offering comfort and durability with a flexible sole and breathable fabric.",
-      "image": "https://example.com/images/canvas.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%209.png",
       "sizes": [7, 9, 11]
     },
     {
@@ -117,7 +117,7 @@
       "rating": 4.1,
       "material": "Fabric",
       "description": "Trendy espadrilles for women, featuring a lightweight fabric upper and a comfortable jute sole. Perfect for summer outings and casual beachwear.",
-      "image": "https://example.com/images/espadrilles.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%2010.png",
       "sizes": [8]
     },
     {
@@ -129,7 +129,7 @@
       "rating": 4.5,
       "material": "Leather",
       "description": "Durable Chelsea boots suitable for all genders. Crafted from premium leather with elastic side panels for easy wear and a sleek silhouette, perfect for both casual and semi-formal occasions.",
-      "image": "https://example.com/images/chelsea.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%2011.png",
       "sizes": [8, 9, 10, 11]
     },
     {
@@ -141,7 +141,7 @@
       "rating": 4.4,
       "material": "Suede",
       "description": "Stylish Chukka boots made from soft suede. These boots combine comfort and fashion, suitable for casual wear and smart-casual events.",
-      "image": "https://example.com/images/chukka.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%2012.png",
       "sizes": [7, 8, 9, 10, 11]
     },
     {
@@ -153,7 +153,7 @@
       "rating": 4.6,
       "material": "Leather",
       "description": "Rugged combat boots designed for durability and comfort. Perfect for outdoor adventures or a tough urban look, with sturdy soles and reinforced stitching.",
-      "image": "https://example.com/images/combat.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%2013.png",
       "sizes": [10, 11]
     },
     {
@@ -165,7 +165,7 @@
       "rating": 4.7,
       "material": "Synthetic",
       "description": "Durable hiking boots with excellent grip and ankle support. Designed for rugged terrains and long trekking trips, offering comfort and protection.",
-      "image": "https://example.com/images/hiking.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%2014.png",
       "sizes": [7, 8, 9]
     },
     {
@@ -177,7 +177,7 @@
       "rating": 4.3,
       "material": "Leather",
       "description": "Classic cowboy boots made from rich leather with traditional stitching. Ideal for western style lovers and outdoor wear, combining style and durability.",
-      "image": "https://example.com/images/cowboy.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%2015.png",
       "sizes": [9]
     },
     {
@@ -189,7 +189,7 @@
       "rating": 4.4,
       "material": "Synthetic",
       "description": "Elegant stilettos that elevate any outfit. Featuring a sleek design with comfortable padding, perfect for parties, formal events, and evening wear.",
-      "image": "https://example.com/images/stilettos.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%2016.png",
       "sizes": [7, 8]
     },
     {
@@ -201,7 +201,7 @@
       "rating": 4.3,
       "material": "Leather",
       "description": "Classic pumps suitable for formal wear. Made from high-quality leather with a comfortable heel height, perfect for office and social events.",
-      "image": "https://example.com/images/pumps.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%2017.png",
       "sizes": [8, 9, 10]
     },
     {
@@ -213,7 +213,7 @@
       "rating": 4.2,
       "material": "Synthetic",
       "description": "Trendy wedge heels combining height and comfort. Made from durable synthetic material, these wedges are ideal for casual and semi-formal occasions.",
-      "image": "https://example.com/images/wedges.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%2017.png",
       "sizes": [7, 9, 10, 11]
     },
     {
@@ -225,7 +225,7 @@
       "rating": 4.1,
       "material": "Leather",
       "description": "Comfortable block heels with sturdy support. Designed for long hours of wear, perfect for office or casual outings with a fashionable touch.",
-      "image": "https://example.com/images/blockheels.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%2019.png",
       "sizes": [8]
     },
     {
@@ -237,7 +237,7 @@
       "rating": 4.2,
       "material": "Synthetic",
       "description": "Stylish kitten heels offering subtle elegance. Lightweight and comfortable, these heels are perfect for both day and evening wear.",
-      "image": "https://example.com/images/kitten.jpg",
+      "image": "https://raw.githubusercontent.com/mrshaik65/footwear-images/refs/heads/main/footwear%20product%2020.png",
       "sizes": [9, 10]
     },
     {
